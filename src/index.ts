@@ -1,9 +1,12 @@
 import express from "express";
 require("dotenv").config();
 const { DB_PORT } = process.env;
+import diaryRouter from "./routes/diaries";
 
 const app = express();
 app.use(express.json());
+
+app.use("/api/routes", diaryRouter)
 
 app.get('/test', (_req, res) => {
   const testResponse = {
