@@ -1,0 +1,24 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ema0502/Api-Rest-Ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ema0502/Api-Rest-Ts/issues"
+  },
+  "homepage": "https://github.com/Ema0502/Api-Rest-Ts#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
