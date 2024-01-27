@@ -2,61 +2,61 @@
   {
     "id": "1",
     "type": "Day with a lot of energy",
-    "dates": "01-01-2020",
+    "date": "01-01-2020",
     "commentary": "An exhilarating start to the year, full of vibrant and positive energy."
   },
   {
     "id": "2",
     "type": "Epic Adventure",
-    "dates": "02-01-2020",
+    "date": "02-01-2020",
     "commentary": "Embarked on a thrilling journey filled with unexpected twists and turns."
   },
   {
     "id": "3",
     "type": "Enigmatic Discovery",
-    "dates": "03-01-2020",
+    "date": "03-01-2020",
     "commentary": "Uncovered mysterious phenomena, sparking curiosity and wonder."
   },
   {
     "id": "4",
     "type": "Mind-Blowing Exploration",
-    "dates": "04-01-2020",
+    "date": "04-01-2020",
     "commentary": "Explored the unknown, pushing the boundaries of imagination."
   },
   {
     "id": "5",
     "type": "Galactic Wonders",
-    "dates": "05-01-2020",
+    "date": "05-01-2020",
     "commentary": "Encountered breathtaking wonders in the vastness of the cosmos."
   },
   {
     "id": "6",
     "type": "Futuristic Marvel",
-    "dates": "06-01-2020",
+    "date": "06-01-2020",
     "commentary": "Immersed in a world of futuristic marvels, awe-struck by technological wonders."
   },
   {
     "id": "7",
     "type": "High-Tech Thrill",
-    "dates": "07-01-2020",
+    "date": "07-01-2020",
     "commentary": "Thrilled by the high-tech marvels and innovations of the day."
   },
   {
     "id": "8",
     "type": "Time-Bending Adventure",
-    "dates": "08-01-2020",
+    "date": "08-01-2020",
     "commentary": "Embarked on a time-bending adventure, challenging the limits of temporal exploration."
   },
   {
     "id": "9",
     "type": "Scientific Marvel",
-    "dates": "09-01-2020",
+    "date": "09-01-2020",
     "commentary": "Witnessed groundbreaking scientific marvels, expanding the frontiers of knowledge."
   },
   {
     "id": "10",
     "type": "Mind-Expanding Quest",
-    "dates": "10-01-2020",
+    "date": "10-01-2020",
     "commentary": "Engaged in a mind-expanding quest, discovering new perspectives and insights."
   }
 ]

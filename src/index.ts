@@ -6,7 +6,7 @@ import diaryRouter from "./routes/diaries";
 const app = express();
 app.use(express.json());
 
-app.use("/api/routes", diaryRouter)
+app.use("/api", diaryRouter)
 
 app.get('/test', (_req, res) => {
   const testResponse = {

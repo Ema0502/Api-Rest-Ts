@@ -3,10 +3,12 @@ export type dates = "01-01-2020" | "02-01-2020" | "03-01-2020" | "04-01-2020" | 
 export interface IDiaryEntry {
   "id": string
   "type": string
-  "dates": dates
+  "date": dates
   "commentary": string
 }
 // export type NonSensitiveDiaryEntry = Pick<IDiaryEntry, "id uuid" | "type" | "dates">;
 // export type NonSensitiveDiaryEntry = Pick<IDiaryEntry,  Exclude<keyof IDiaryEntry, 'commentary'>>;
 
-export type NonSensitiveDiaryEntry = Omit<IDiaryEntry, "commentary">
+export type NonSensitiveDiaryEntry = Omit<IDiaryEntry, "commentary">;
+
+export type NonIdDiaryEntry = Omit<IDiaryEntry, "id">;
