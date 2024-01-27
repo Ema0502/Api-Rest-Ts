@@ -30,3 +30,7 @@ export const addDiary = (newEntry: NonIdDiaryEntry) => {
   diaries.push(newDairy)
   return newDairy;
 }
+
+export const toNewDairyEntry = () => {
+
+}
